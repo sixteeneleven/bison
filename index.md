@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: rams-for-reddit.md
-    link_text: Rams
+    link_text: Rams2
   - link: "/"
     link_text: Home
   - link: "#features"
