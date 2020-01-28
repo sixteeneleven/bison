@@ -7,8 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-symbol.svg"
   navigation:
-  - link: About
-    link_text: "#about"
+  - link: "#about"
+    link_text: About
   cta:
     url: https://reddit.com
     button_text: Download
