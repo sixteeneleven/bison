@@ -5,11 +5,13 @@ date: 2020-01-28 00:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
-  navigation: []
+  logo: "/uploads/2018/06/21/forestry-symbol.svg"
+  navigation:
+  - link: About
+    link_text: "#about"
   cta:
-    url: ''
-    button_text: ''
+    url: https://reddit.com
+    button_text: Download
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
